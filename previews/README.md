@@ -1,14 +1,18 @@
-# Local Revenue Flow — website previews
+# Local Revenue Flow — downloadable website previews
 
-- [Download the 32-page website preview PDF](local-revenue-flow-website-preview.pdf?raw=true)
-- [Download the clickable offline website ZIP](local-revenue-flow-offline-preview.zip?raw=true)
+## Current layout preview (v2)
 
-## PDF
-Open the PDF and choose **Fit width**. Use the linked page index or bookmarks to explore 25 desktop layouts and 5 mobile layouts.
+[Download the clickable website preview ZIP](local-revenue-flow-offline-preview-v2.zip?raw=true)
 
-## Clickable preview
-Download the ZIP, extract the entire folder, and open `website-preview/index.html` in a browser. Keep the assets folder alongside the HTML files. No installation or application server is needed. Audit and contact forms are disabled in this offline copy.
+Extract the ZIP and open `website-preview/index.html` on your computer. All 25 pages are connected with local links. Forms are visual only and do not submit. No installation is needed.
 
-This is a review preview, not a production deployment. No Sites project has been published. Email/CRM integration and verified business/legal details remain pending.
+V2 improves page layouts, mobile reading, navigation, the footer and form presentation. It passed 150 responsive checks, 23 automated accessibility scans and 6 integration tests. The offline package passed another 50 viewport checks and 1,241 local-link/asset checks.
 
-This branch contains delivery artifacts only. The master branch is unchanged.
+**Live-brand matching is pending.** The cloud network proxy blocked access to localrevenueflow.com. The current palette and wordmark have not been verified against that website. See [V2 review notes](V2-REVIEW-NOTES.md).
+
+## Earlier delivery
+
+- [Earlier 32-page PDF preview](local-revenue-flow-website-preview.pdf?raw=true) — this predates the v2 improvements.
+- [Earlier clickable ZIP](local-revenue-flow-offline-preview.zip?raw=true)
+
+This branch contains preview delivery artifacts. It is not a production deployment or a Sites project.

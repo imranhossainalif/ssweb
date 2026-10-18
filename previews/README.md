@@ -1,18 +1,17 @@
-# Local Revenue Flow — downloadable website previews
+# Local Revenue Flow clickable previews
 
-## Current layout preview (v2)
+## Current: screenshot-led funnel v3
 
-[Download the clickable website preview ZIP](local-revenue-flow-offline-preview-v2.zip?raw=true)
+[Download the clickable website ZIP](local-revenue-flow-funnel-preview-v3.zip?raw=true)
 
-Extract the ZIP and open `website-preview/index.html` on your computer. All 25 pages are connected with local links. Forms are visual only and do not submit. No installation is needed.
+Download and extract the ZIP, then open `website-preview/index.html` in your browser. All 25 pages link together. Fonts and assets are included locally. The offline form is an inactive design preview; it does not send or save information.
 
-V2 improves page layouts, mobile reading, navigation, the footer and form presentation. It passed 150 responsive checks, 23 automated accessibility scans and 6 integration tests. The offline package passed another 50 viewport checks and 1,241 local-link/asset checks.
+[View the homepage](v3-homepage.png) · [Read funnel and validation notes](V3-FUNNEL-NOTES.md)
 
-**Live-brand matching is pending.** The cloud network proxy blocked access to localrevenueflow.com. The current palette and wordmark have not been verified against that website. See [V2 review notes](V2-REVIEW-NOTES.md).
+The navy, green and warm-white design follows the user-supplied previous-site screenshot. Content guides home-service owners from problems and services through sample work and questions to a free audit. No fabricated founder identities, testimonials, client results or contact details are included.
 
-## Earlier delivery
+This branch contains review artifacts only; it does not publish the production website.
 
-- [Earlier 32-page PDF preview](local-revenue-flow-website-preview.pdf?raw=true) — this predates the v2 improvements.
-- [Earlier clickable ZIP](local-revenue-flow-offline-preview.zip?raw=true)
+## Earlier versions
 
-This branch contains preview delivery artifacts. It is not a production deployment or a Sites project.
+The v1 PDF and v1/v2 ZIP files remain archived here. They show earlier layouts and are not the current screenshot-led design.
